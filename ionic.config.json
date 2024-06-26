@@ -1,7 +1,7 @@
 {
-  "name": "MarketList",
+  "name": "MarketListPro",
   "integrations": {
     "capacitor": {}
   },
-  "type": "react-vite"
+  "type": "angular-standalone"
 }

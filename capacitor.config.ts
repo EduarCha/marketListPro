@@ -2,8 +2,8 @@ import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'MarketList',
-  webDir: 'dist'
+  appName: 'MarketListPro',
+  webDir: 'www'
 };
 
 export default config;
